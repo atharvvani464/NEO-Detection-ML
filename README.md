@@ -1,4 +1,6 @@
-# Final Project in Machine Learning/Data Science Fall 2025
+# Near Earth Object Detection
+
+## Final Project in Machine Learning/Data Science Fall 2025
 
 In this study, the team analyzed and developed an improved machine learning pipeline
 for classifying hazardous NEOs. By refining models introduced by the SOTA with engineered
